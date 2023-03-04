@@ -1,0 +1,20 @@
+Corporate Email *
+ 
+What company do you work for? *
+ 
+What does your app or hardware do and how will Spotify be integrated? *
+ 
+What does your app or hardware do and how will Spotify be integrated? *
+It's a dead-simple web player that organizes content for users and spawns a link to Spotify's web client or app.  Currently, albums are hard to find in Spotify's UI.
+
+How will your app or hardware be monetized? *
+
+
+If your app or hardware is live, please provide a link (app store or website) below.
+
+If your app or hardware is live, how many monthly active users or devices sold does it have?
+
+When do you plan to launch the Spotify integration publicly in your app?
+
+Link to mock-up or more detailed description *
+We require all commercial integrations to provide a detailed summary and/or links to user flows & mockups as a critical component of attaining licensing approvals.

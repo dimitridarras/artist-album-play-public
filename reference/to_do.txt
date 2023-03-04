@@ -1,0 +1,69 @@
+** Test Cases **
+
+See application for now.
+
+
+** Application **
+
+- Fail gracefully for less than 50 artists
+https://www.javascripttutorial.net/javascript-array-filter/
+- Ensure that logout truly logs out user and clears session (possible fix)
+    https://stackoverflow.com/questions/30372835/how-can-i-increase-the-expiry-time-of-spotify-token#:~:text=Access%20tokens%20expire%20after%20one,it%20has%20been%20manually%20revoked.)
+- Gracefully handle errors
+    - If the page defaults to aap.php and errors out, then redirect to the index 
+    - Trim the object returned for varying lengths
+        https://stackoverflow.com/questions/4352203/any-php-function-that-will-strip-properties-of-an-object-that-are-null
+- To detect records more than 50, offset till the first null record is detected
+- Figure out what to do when the app.php page errors out due to token expiration
+- Get rid of legacy bogus variable names
+- Determine whether to use a dropdown for one album value or a DIV or an album image
+- Introduce an album image or break it out into a new "browse the record store" section
+- Make repeat API calls for records longer than 50
+- Get Beta Testers
+- Do we want to display a count of how many albums?
+- Do we want to allow the user to go to the artist's page to add albums?
+- Double check git upstream
+- Find a paid theme that works well
+- No shuffle play if possible
+- What if the user has no albums saved?
+- What kinds of prompts and how-to's exist to show them how to use spotify's arcane interface?
+- Responsive issues with the title on Android
+
+** Web Server **
+
+- Installing the RIGHT version of CURL is a must
+https://stackoverflow.com/questions/34842596/call-to-undefined-function-curl-init-even-it-is-enabled-in-php7
+- Forcing https after installing Certbot
+https://stackoverflow.com/questions/16200501/http-to-https-apache-redirection
+Remove static files for now
+
+** Mobile **
+
+- Create a new app for web based testing on mobile
+- Look into Phonegap: https://medium.com/code-divoire/going-mobile-wrapping-an-existing-web-application-in-cordova-phonegap-106d8b60bb9a
+- See above: https://build.phonegap.com/plugins/1169
+- UI and Look-and-feel
+- Add Spotify logo to app
+
+** Next Project **
+
+- Plan for the Shopify Daily.co Integration: https://www.udemy.com/course/shopify-app-development/
+- Get David access to Shopify
+- Get David access to Digital Ocean Freebie
+
+** Test Plan **
+
+- User does not have a Spotify Account (Sign up here)
+- User has not saved any albums
+- User has only one album
+- User has any number of albums
+- User want to log out and stay that way
+- User wants to log back in
+- User doesn't have neither the Spotify Web Player nor the App open or authenticated
+- User has both of the above open
+- User is on an Android Phone looking at the repsonsive web site
+- User is on an iPhone looking at the responsive web site
+- User is on an Android Phonegap App (future)
+- User is on an iPhone Phonegap App (future)
+- User wants to add Artists, Albums, and Songs from the app itself (future)
+

@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../for_DA/css"
+		},
+		{
+			"path": "../for_DA/fonts"
+		},
+		{
+			"path": "../for_DA/img"
+		},
+		{
+			"path": "../for_DA/js"
+		}
+	],
+	"settings": {}
+}

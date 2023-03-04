@@ -1,0 +1,112 @@
+** IA **
+https://balsamiq.com/
+https://www.omnigroup.com/omnigraffle
+draw.io
+Adobe XD
+ngrok.io
+
+** Tooling **
+https://linuxize.com/post/how-to-install-rpm-packages-on-centos/
+https://developer.spotify.com/documentation/web-api/reference/player/toggle-shuffle-for-users-playback/
+https://ngrok.com/ (serve to the web from local)
+digitalocean.com
+
+** Phonegap and Mobile **
+
+https://phonegap.com/ (Adobe Phonegap for mobile app)
+https://stackoverflow.com/questions/36098736/connect-php-with-phonegap#:~:text=Phonegap%20is%20a%20mobile%20app,requires%20infrastructure%20on%20the%20server
+https://build.phonegap.com/plugins/1169
+https://stackoverflow.com/questions/36479658/phonegap-create-new-app-for-hosted-web-app-using-its-url-address
+
+
+** Lando and other VM tools **
+
+lando stop
+lando init
+lado rebuild
+
+** Other Projects that use the Spotify API **
+
+https://www.producthunt.com/posts/tunes-by-minutes
+https://www.ajournalofmusicalthings.com/kinda-cool-i-think-your-spotify-listening-presented-as-a-grocery-receipt/
+https://forgotify.com/
+https://receiptify.herokuapp.com/
+
+
+** Spotify and Related API's **
+DJ Style Apps API Shutdown
+https://musically.com/2020/06/18/pacemaker-dj-app-secures-extension-to-spotify-api-shutdown/
+
+Napster for Developers
+https://developer.napster.com/
+
+Soundcloud for Developers
+https://developers.soundcloud.com/
+
+Deezer
+https://developers.deezer.com/login?redirect=/api
+
+No API - just interesting
+https://cdbaby.com/
+
+Not just a video search engine, but audio too, some licensed, some not
+https://developers.google.com/youtube/v3
+
+(Shopify) Tangential Video Project - Potential:
+https://www.daily.co/
+
+(Shopify) Existing product
+https://apps.shopify.com/inperson/reviews
+
+
+
+** Desired App Functionality **
+Reference the shuffle play too OFF just like you'd expect an Album to behave
+https://developer.spotify.com/documentation/web-api/reference/player/toggle-shuffle-for-users-playback/
+
+** PHP **
+Operators
+https://www.w3schools.com/php/php_operators.asp
+https://stackoverflow.com/questions/14037290/what-does-this-mean-in-php-or
+
+** JavaScript **
+
+Coming soon
+
+** PHP Learning **
+
+https://laracasts.com/
+https://symfonycasts.com/
+https://drupalize.me/
+php.net
+
+** Github **
+
+https://stackoverflow.com/questions/67699/how-to-clone-all-remote-branches-in-git
+
+** Arrays **
+
+https://www.w3schools.com/php/func_array_push.asp
+https://www.w3schools.com/php/phptryit.asp?filename=tryphp_func_array_push
+https://www.w3schools.com/php/php_arrays_associative.asp
+https://w3s.sxisa.org/php/php_arrays_associative.asp
+https://www.php.net/manual/en/function.array-fill.php
+https://www.w3schools.com/php/func_array_merge.asp
+  
+** Objects **
+
+https://www.w3schools.com/js/js_json_php.asp
+
+** Front-end Frameworks **
+https://bulma.io/ *
+https://get.foundation/
+https://getbootstrap.com/2.3.2/
+
+Data structuring and arrays:
+https://developer.spotify.com/documentation/web-api/reference/artists/get-artists-albums/
+**
+**
+**https://developer.spotify.com/documentation/web-api/reference/artists/get-artists-albums/
+
+
+https://stackoverflow.com/questions/34316156/how-to-comment-multiple-lines-in-visual-studio-code
